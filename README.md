@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 #Add Student to Database
 
 ``
@@ -14,3 +15,5 @@ Content-Type: application/json
 ``
 GET 'localhost:8080/student/getAll'
 ``
+=======
+>>>>>>> origin/master
